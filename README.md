@@ -6,7 +6,7 @@ Zum backen kannst du dieses Rezept nutzen: <br>
 Bei der Verzierung kannst du alles nutzen, was dir gefällt. Kekse, Gummibärchen, Schokolinsen uvm.
 
 ## ~@unplugged
-Wie du siehst haben wir es hier mit der Deko wohl etwas zu gut gemeint :-D
+Wie du siehst haben wir es hier mit der Deko wohl etwas zu gut gemeint :-D <br>
 ![Haus](https://github.com/r00b1nh00d/smarteslebkuchenhaus/blob/master/LebkuchenHausBild.PNG?raw=true)
 
 ## ~@unplugged
@@ -27,3 +27,5 @@ basic.forever(function () {
     }
 })
 ```
+## ~@unplugged
+![LebkuchenHaus](https://github.com/r00b1nh00d/smarteslebkuchenhaus/blob/master/Lebkuchenhaus.gif?raw=true)
