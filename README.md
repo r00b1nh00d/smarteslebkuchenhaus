@@ -14,7 +14,7 @@ Doch was hat jetzt die Informatik mit dem Lebkuchenhaus backen zu tun? <br>
 Naja mit der Calliope kannst du dein Lebkuchenhaus etwas "Smart" machen. Sicher hast du schonmal von dem Begriff Smart Home gehört. <br>
 Allgemein beteutet Smart Home, dass alle elektronischen Geräte im Haus mit einander Vernetzt sind und oft auch mit dem Internet verbunden sind. Ein Aspekt des Smart Homes ist es auch, wenn du z.B. dein Zuhause verlässt, dies erkannt wird und eine Steuereinheit zum Energiesparen das Licht ausschaltet. 
 
-## Schritt 1
+## Programmierung
 Wie bei der Alarmanlage für die Keksdose kannst du jetzt auch den Lichtsensor nutzen um die am Calliope verbaute RGB-LED oder auch weitere LED's bzw. Neopixel Anschalten zu lassen, sobald die gemessene Lichtstärke unter einen bestimmten Wert fällt.
 
 
