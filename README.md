@@ -11,7 +11,7 @@ Wie du siehst haben wir es hier mit der Deko wohl etwas zu gut gemeint :-D <br>
 
 ## ~@unplugged
 Doch was hat jetzt die Informatik mit dem Lebkuchenhaus backen zu tun? <br>
-Naja mit der Calliope kannst du dein Lebkuchenhaus etwas "Smart" machen. Sicher hast du schonmal von dem Begriff Smart Home gehört. <br>
+Naja mit dem Calliope kannst du dein Lebkuchenhaus etwas "Smart" machen. Sicher hast du schonmal von dem Begriff Smart Home gehört. <br>
 Allgemein beteutet Smart Home, dass alle elektronischen Geräte im Haus mit einander Vernetzt sind und oft auch mit dem Internet verbunden sind. Ein Aspekt des Smart Homes ist es auch, wenn du z.B. dein Zuhause verlässt, dies erkannt wird und eine Steuereinheit zum Energiesparen das Licht ausschaltet. 
 
 ## Programmierung
